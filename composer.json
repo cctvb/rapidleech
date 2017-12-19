@@ -1,4 +1,14 @@
 {
+  "scripts": {
+    "compile": [
+      "chmod -R 777 rar/",
+      "chmod 777 rar/unrar",
+      "chmod 777 rar/rar"
+    ]
+  }
+ 
+}
+{
   "require": {
     "ext-bcmath": "*"
   }
