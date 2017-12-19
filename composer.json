@@ -5,8 +5,9 @@
       "chmod 777 rar/unrar",
       "chmod 777 rar/rar"
     ]
-  }
-   "require": {
+    "require": {
         "ext-bcmath": "*"
     }
+  }
+ 
 }
