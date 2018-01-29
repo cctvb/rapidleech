@@ -477,5 +477,6 @@ class Th3822_MegaDlDecrypt extends php_user_filter {
 //[29-1-2015] Replaced 'T8' prefix at folder->file links for support on third-party downloaders using links with 'N' as prefix. - Th3-822
 //[04-2-2016] Added sub-folders support (fully) and added support for link suffix "!less" to disable recursive sub-folder download. - Th3-822
 //[27-12-2016] Added Login support for increase traffic limits & forced SSL on downloads to avoid corrupted downloads. - Th3-822
+//[05/02/2017] The api https://g.api.mega.co.nz/cs?id= has limited broadband, being old you have to change it for lu1.api.mega.nz http://i.imgur.com/ff23OUq.png - guest
 //[12-11-2017] Removed SSL from downloads to increase download speed & updated Th3822_MegaDlDecrypt class. - Th3-822
 ?>
