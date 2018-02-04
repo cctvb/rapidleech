@@ -18,6 +18,7 @@ if (!isset($page_title)) {
 	echo htmlspecialchars($page_title);
 }
 ?></title>
+	<meta name="keywords" content="rapidleech, rapidleech v2 rev. 43, free rapidleech, rapid leech, free-rapidleech, fast rapidleech, fastrapidleech, premium link, premium link generator, 2016,2017,2018, rapidleech 2018, rapidleech 2016, rapidleech 2017, fastrapidleech.com, ex-load leech, rapidleech v2 rev 43, rapidleech v2 rev. 42, rapidleech v2 rev. 44, rapidleech v2, rapidleech plugmod (eqbal) rev. 43, rapidleech rev 43, freerapidleech, keep2shareleech, free leech v2, rapidleech v2 rev. 43 debug=1, k2s, premium link generator, debrid,leech, premium accounts, premium rapidleech, free-rapidleech, rapidleech.com"/>
 <script type="text/javascript">
 /* <![CDATA[ */
 var php_js_strings = [];
