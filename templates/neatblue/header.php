@@ -28,6 +28,15 @@ if ($GLOBALS['options']['ajax_refresh']) { echo '<script src="classes/ajax_refre
 if ($GLOBALS['options']['flist_sort']) { echo '<script src="classes/sorttable.js"></script>'.$nn; }
 ?>
 <script type="text/javascript">function toggle(b){var a=document.getElementById(b);if(a.style.display=="none"){a.style.display="block"}else{a.style.display="none"}};</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54280561-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54280561-4');
+</script>
 </head>
 <body>
 <header><img src="templates/neatblue/images/logo_pm.gif" height="62" width="369" alt="rapidleech neatblue"></header><br />
