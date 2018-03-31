@@ -25,7 +25,7 @@ $options = array (
     'kplam' => 'z4077904',
   ),
   'template_used' => 'neatblue',
-  'default_language' => 'pt-br',
+  'default_language' => 'en',
   'show_all' => true,
   'server_info' => true,
   'ajax_refresh' => true,
