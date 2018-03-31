@@ -22,9 +22,9 @@ $options = array (
   'login' => true,
   'users' => 
   array (
-    'cctvb' => 'abc123',
+    'kplam' => 'z4077904',
   ),
-  'template_used' => 'neatblue',
+  'template_used' => 'plugmod',
   'default_language' => 'en',
   'show_all' => true,
   'server_info' => true,
