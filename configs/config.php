@@ -22,7 +22,7 @@ $options = array (
   'login' => true,
   'users' => 
   array (
-    'kplam' => '123456',
+    'cctvb' => 'abc123',
   ),
   'template_used' => 'neatblue',
   'default_language' => 'en',
