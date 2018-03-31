@@ -22,7 +22,7 @@ $options = array (
   'login' => true,
   'users' => 
   array (
-    'kplam' => 'z4077904',
+    'cctvb' => '123456',
   ),
   'template_used' => 'plugmod',
   'default_language' => 'en',
